@@ -19,7 +19,6 @@
 - type: latheRecipePack
   id: ServiceBoardsStaticGoob
   recipes:
-  - StationRadioCircuitboard
 
 ## Dynamic
 
@@ -41,7 +40,4 @@
 - type: latheRecipePack
   id: ServiceBoardsGoob
   recipes:
-  - VinylPlayerCircuitboard
   - TapeDeckCircuitboard
-  - StationRadioServerCircuitboard
-  - StationRadioRigCircuitboard
